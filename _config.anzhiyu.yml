@@ -1,0 +1,16 @@
+# Anzhiyu theme config
+# See https://github.com/anzhiyu-cn/hexo-theme-anzhiyu for documentation
+
+# 打字机
+# 当 first_open_page 设置为 true 时,输入 first_open_page_animate 内容
+# 当 first_open_page 设置为 false 时,输入 welcome_say hi 内容
+first_open_page: true
+first_open_page_animate: "嗨，欢迎来到我的博客！"
+welcome_say:
+  hi: "Hi~"
+  dod: "Welcome to my blog"
+
+# 社交链接
+social:
+  fab fa-github: https://github.com/your-github-username || Github
+  fas fa-envelope: mailto:your-email@example.com || Email 
