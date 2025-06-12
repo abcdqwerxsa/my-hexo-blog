@@ -13,4 +13,9 @@ welcome_say:
 # 社交链接
 social:
   fab fa-github: https://github.com/your-github-username || Github
-  fas fa-envelope: mailto:your-email@example.com || Email 
+  fas fa-envelope: mailto:your-email@example.com || Email
+
+# Preloader
+preloader:
+  enable: true
+  avatar: /img/avatar.png
